@@ -17,13 +17,13 @@ void loop() {
   delay(100);
 
   turnRight();
-  delay(100);
+  delay(1000);
 
   stop();
   delay(100);
 
   turnLeft();
-  delay(100);
+  delay(1000);
 
   stop();
   delay(100);
